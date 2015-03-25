@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WODy</string>
+    <string name="hello_round">WODy</string>
+    <string name="hello_square">Hello Square World!</string>
+</resources>
